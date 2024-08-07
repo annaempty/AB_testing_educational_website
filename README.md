@@ -12,7 +12,8 @@ A/B-теста | T-тест | Bootstrap | тест Шапиро-Уилка | Х�
   <img src="https://avatars.mds.yandex.net/i?id=3b1d13a52ed933827565a138d9a0f7b8cc7df932-12490006-images-thumbs&n=13" title="Seaborn" alt="Seaborn" height="30"/>&nbsp;
   <img src="https://avatars.mds.yandex.net/i?id=8f15f2ddbf0b080a77ed0a53bf419b1d11113da9-9829492-images-thumbs&n=13" title="ClickHouse" alt="ClickHouse" height="30"/>&nbsp;
 </div>
-## 👩🏻‍💻 Задачи:
+
+## 👩🏻‍💻 Задачи:  
 - Считать данные с помощью API
 - Провести предобработку данных;
 - Саставить итоговую таблицу для анализа данных;
